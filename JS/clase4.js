@@ -1,0 +1,1 @@
+var nombre = 'Rich', edad = 22
